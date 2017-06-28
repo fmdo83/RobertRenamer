@@ -1,0 +1,6 @@
+c:\users\fdalessio\documents\visual studio 2017\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.config
+c:\users\fdalessio\documents\visual studio 2017\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe
+c:\users\fdalessio\documents\visual studio 2017\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.pdb
+c:\users\fdalessio\documents\visual studio 2017\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.csprojResolveAssemblyReference.cache
+c:\users\fdalessio\documents\visual studio 2017\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+c:\users\fdalessio\documents\visual studio 2017\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
